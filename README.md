@@ -107,7 +107,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asintha-udeshitha&show_icons=true&theme=radical" alt="asintha's GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asintha-udeshitha&layout=compact&theme=radical" height="200"/>
-</p>
